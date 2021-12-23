@@ -5,6 +5,7 @@ import wgn.workshare.fornecedores.models.Fornecedor;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 import java.util.UUID;
 
 public class FornecedorRepository {
@@ -23,7 +24,11 @@ public class FornecedorRepository {
     }
 
     public Fornecedor obterFornecedorPorId(UUID id){
-        return fornecedores.stream().filter(fornecedor -> fornecedor.getId().equals(id)).findFirst().get();
+        Optional<Fornecedor> fornecedorOptional = fornecedores.stream().filter(fornecedor -> fornecedor.getId().equals(id)).findFirst();
+        if(!fornecedorOptional.isPresent())
+            return null;
+
+        return fornecedorOptional.get();
     }
 
     public boolean atualizarDadasFornecedor(Fornecedor fornecedorAtualizado){
