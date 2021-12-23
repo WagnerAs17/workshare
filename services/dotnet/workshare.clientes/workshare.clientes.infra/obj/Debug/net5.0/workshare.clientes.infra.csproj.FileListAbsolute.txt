@@ -1,0 +1,12 @@
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\bin\Debug\net5.0\workshare.clientes.infra.deps.json
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\bin\Debug\net5.0\workshare.clientes.infra.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\bin\Debug\net5.0\ref\workshare.clientes.infra.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\bin\Debug\net5.0\workshare.clientes.infra.pdb
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.AssemblyInfoInputs.cache
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.AssemblyInfo.cs
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\ref\workshare.clientes.infra.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.pdb
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.infra\obj\Debug\net5.0\workshare.clientes.infra.csproj.AssemblyReference.cache

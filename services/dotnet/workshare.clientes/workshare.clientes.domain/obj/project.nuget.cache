@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtmPwxx9TvdoOcX4CF5fn9drYv4V2ViR9xx53b825mZS5Unl92x6W4m/SEdtwEJIuNU6ittwN1Gvx5geO5h9Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\workshare\\services\\dotnet\\workshare.clientes\\workshare.clientes.domain\\workshare.clientes.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wagne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wagne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wagne\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

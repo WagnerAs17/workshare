@@ -1,0 +1,15 @@
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\workshare.clientes.domain.deps.json
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\workshare.clientes.domain.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\ref\workshare.clientes.domain.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\workshare.clientes.domain.pdb
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\workshare.core.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\bin\Debug\net5.0\workshare.core.pdb
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.csproj.AssemblyReference.cache
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.AssemblyInfoInputs.cache
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.AssemblyInfo.cs
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.csproj.CopyComplete
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\ref\workshare.clientes.domain.dll
+C:\Desenvolvimento\workshare\services\dotnet\workshare.clientes\workshare.clientes.domain\obj\Debug\net5.0\workshare.clientes.domain.pdb

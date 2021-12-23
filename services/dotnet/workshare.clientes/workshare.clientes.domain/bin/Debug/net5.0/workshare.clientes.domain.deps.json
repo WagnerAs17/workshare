@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "workshare.clientes.domain/1.0.0": {
+        "dependencies": {
+          "workshare.core": "1.0.0"
+        },
+        "runtime": {
+          "workshare.clientes.domain.dll": {}
+        }
+      },
+      "workshare.core/1.0.0": {
+        "runtime": {
+          "workshare.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "workshare.clientes.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "workshare.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
